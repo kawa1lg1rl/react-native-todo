@@ -1,0 +1,3 @@
+rootProject.name = 'kawa1lg1rl_todo'
+
+include ':app'
